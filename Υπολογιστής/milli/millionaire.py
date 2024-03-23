@@ -7,7 +7,7 @@ import webbrowser
 
 colorama.init(autoreset=True)
 
-with open("../milly.txt", "r") as f:
+with open("milly.txt", "r") as f:
     try:
         print(Fore.BLUE + Style.BRIGHT + f.read())
         print("=" * 100)
