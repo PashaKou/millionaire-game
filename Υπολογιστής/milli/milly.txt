@@ -1,0 +1,13 @@
+                                        MILLIONAIRE GAME RULES
+
+The Who Wants to Be a Millionaire questions are structured according to five different Levels with each level increasing
+in difficulty. Each level contains three questions.
+
+Questions that are grouped into the same level will all be of similar difficulty. For example: Questions 1-3 make up the
+first Level and will contain the easiest questions. The second Level (Questions 4 - 6) will be slightly more difficult,
+followed by the third Level (Questions 7-9). The fourth Level (Questions 10-12) will consist of really difficult
+questions, followed by the fifth, and last, level (Questions 13 - 15) that will pose the most difficult questions of
+the game.
+
+It is important to remember that the questions which make up each level will not necessarily relate to the same or even
+similar topics, but their overall level of difficulty will be the same.
